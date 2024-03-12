@@ -1,0 +1,8 @@
+{
+  "start": "start",
+  "profile": "profile {id} > you are {role}",
+  "tasks": "Ваши задачи: ",
+  "tasks_none": "У вас нет задач, создайте!",
+  "task": "Задача - {name}\n\nСтатус: {status}\nПодзадачи: {len_child}",
+  "except": "Произошла ошибка!("
+}
